@@ -13,14 +13,14 @@ Then User verify that message was displyed
 
 
 
-#Scenario: Verify Two Input Fields
-#Given User Navigate to Selenium Easy Home Page
-#When User Click on Input Form Drop Down
-#Then User Click on Simple Form Demo Link
-#Then USer Enter Value for A
-#And User Enter Value for B
-#Then User Click on the Get Total Button
-#And User Very the result
+Scenario: Verify Two Input Fields
+Given User Navigate to Selenium Easy Home Page
+When User Click on Input Form Drop Down
+Then User Click on Simple Form Demo Link
+Then USer Enter Value for A
+And User Enter Value for B
+Then User Click on the Get Total Button
+And User Very the result
 
 
 
@@ -29,4 +29,3 @@ Then User verify that message was displyed
 
 
 
-#Gherkin Language -Plain text English language
